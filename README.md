@@ -1,6 +1,5 @@
 # 🤖 인공지능 개론 (Introduction to Artificial Intelligence)
 
-![AI Banner](https://your-image-url.com/banner.png) <!-- 필요시 이미지 URL 변경 -->
 
 본 리포지토리는 **인공지능 개론**을 다루는 학습 자료 및 코드 예제를 포함하고 있습니다.  
 머신러닝, 딥러닝, 데이터 분석 등의 핵심 개념을 실습할 수 있도록 구성되어 있습니다.
